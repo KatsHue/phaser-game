@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Margarine&display=swap");
+
+* {
+  font-family: "Margarine", Arial, Helvetica, sans-serif;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background: #f0f0f0;
+  text-align: center;
+}
+
+h1 {
+  margin: 20px;
+}
