@@ -4,7 +4,7 @@
 
 Juego desarrollado en JavaScript usando Phaser 3. <br><br> Clase: <strong>Programación para Internet 2025B<strong>
 
-<a href="" target="_blank"><strong>🎯 Demo </strong></a>
+<a href="https://katshue.github.io/phaser-game/" target="_blank"><strong>🎯 Demo </strong></a>
 
 </div>
 
